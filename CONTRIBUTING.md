@@ -1,6 +1,6 @@
 # General contribution
 
-By default, any open project from Dymmond should contain a contributing section that should
+By default, any open project from tarsil or tarsild should contain a contributing section that should
 be followed.
 
 We do not encourage people opening issues on this repo since this is not used for that purpose.

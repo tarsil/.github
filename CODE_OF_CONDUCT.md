@@ -10,7 +10,7 @@ every community driven, motivated, special and successful allowing the growth to
 When interacting/working with different members from the community, the code of conduct helps those
 interactions better, positive sustainable and respectul.
 
-## Dymmond community
+## The community
 
 We share the same values as the great communities out there, for example, [Encode](https://github.com/encode/.github/blob/master/CODE_OF_CONDUCT.md).
 
@@ -26,7 +26,7 @@ Members of the Python community are **open, considerate, and respectful**. Behav
 * **Gracefully accepting constructive criticism.** When we disagree, we are courteous in raising our issues.
 * **Using welcoming and inclusive language.** We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
 
-## Our Standards
+## The Standards
 
 Every member of our community has the right to have their identity respected. The Python community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
@@ -69,4 +69,4 @@ The code of conduct was based on exactly the same as [Encode](https://github.com
 
 We share the same principles and values as them and this is a reference to the same Code of Conduct.
 
-We thank Encode for the elaborate and thorough Code of Conduct as this reflects the same values as Dymmond.
+We thank Encode for the elaborate and thorough Code of Conduct as this reflects the same values as tarsil.
